@@ -1,5 +1,8 @@
 # Researcher AI Platform
 
+<img width="4243" height="9226" alt="diagram" src="https://github.com/user-attachments/assets/05bf989d-2755-4529-a0a4-cbf37c1b1e23" />
+
+
 Runnable starter for a source-grounded research agent using LangGraph, Groq, Tavily, FastAPI, and Next.js.
 
 ## Quick start
